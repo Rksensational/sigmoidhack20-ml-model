@@ -7,11 +7,11 @@ Close to 800 000 people die by suicide every year. Suicides are preventable.If s
 2. Close to 800 000 people die by suicide every year. Furthermore, for each suicide, there are more than 20 suicide attempts.
 3.Suicides are preventable you should seek immediate assistance from a healthcare provider.
 
-## What it does
+##A. What it does
 
 This is a machine learning model that reads data from the dataset and shows results on the top reasons why people committed suicide and etc.
 
-## How I built it
+##B. How I built it
 
 I used a few models i.e. algorithms of classification, prediction, linear regression.
 
