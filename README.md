@@ -1,7 +1,7 @@
 # sigmoidhack20-ml-model [link](https://jovian.ai/rksensational/final-project)
 Suicides Data Analysis in India Using Machine Learning
 
-![Alt text](/path/to/1.png)
+![Alt text](/Images/1.png)
 
 Close to 800 000 people die by suicide every year. Suicides are preventable.If somehow we collect all data we definitely find the common reasons for suicides and stop this & save people's life.
 
