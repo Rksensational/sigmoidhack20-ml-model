@@ -1,4 +1,4 @@
-# sigmoidhack20-ml-model [link](https://jovian.ai/rksensational/final-project)
+# sigmoidhack20-ml-model [Original](https://jovian.ai/rksensational/final-project)
 Suicides Data Analysis in India Using Machine Learning
 
 ![Alt text](/Images/1.png)
@@ -11,9 +11,12 @@ Close to 800 000 people die by suicide every year. Suicides are preventable.If s
 
 ## What it does
 
+![Alt text](/Images/9.png)
+
 This is a machine learning model that reads data from the dataset and shows results on the top reasons why people committed suicide and etc.
 
 ## How I built it
+![Alt text](/Images/3.png)
 
 I used a few models i.e. algorithms of classification, prediction, linear regression.
 
@@ -31,6 +34,6 @@ I had no knowledge and idea about machine learning and data science before, but 
 2. Machine learning is not all about maths it also requires logical and analytical skills.
 
 ## What's next for Suicides Data Analysis in India Using Machine Learning
-
+![Alt text](/Images/10.png)
 Almost 11,89,068 human beings dedicated suicide in 2012 alone, it's miles pretty crucial to apprehend why they dedicate suicide and attempt to mitigate.
 If somehow we are able to collect all data we definitely find the common reasons for suicides and will try to stop also & save people life.
