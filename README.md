@@ -16,7 +16,7 @@ Close to 800 000 people die by suicide every year. Suicides are preventable.If s
 This is a machine learning model that reads data from the dataset and shows results on the top reasons why people committed suicide and etc.
 
 ## How I built it
-![Alt text](/Images/3.png)
+![Alt text](/Images/2.png)
 
 I used a few models i.e. algorithms of classification, prediction, linear regression.
 
@@ -29,6 +29,7 @@ Data collection is the biggest challenge for me.
 I had no knowledge and idea about machine learning and data science before, but I started to understand it while working and I starting loving this & this is an accomplishment that I'm proud of.
 
 ## What I learned
+![Alt text](/Images/3.png)
 
 1. Data is king.
 2. Machine learning is not all about maths it also requires logical and analytical skills.
